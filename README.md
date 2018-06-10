@@ -10,5 +10,5 @@ Features:
 - Logical flow
 
 Technologies:
-- ASP.NET MVC
+- ASP.NET MVC (Visual Studio 2015).
 - MS SQL Server.
