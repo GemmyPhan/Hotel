@@ -8,6 +8,7 @@ Features:
 - Easy to control
 - Conform to know the standards
 - Logical flow
+- Multi-user support
 
 Technologies:
 - ASP.NET MVC (Visual Studio 2015).
